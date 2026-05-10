@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+  header{
+    color:blue;
+  }
+</style>
+<body>
+  <header>
+    <p>Holaaaaa</p>
+  </header>
+</body>
