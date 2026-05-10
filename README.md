@@ -1,4 +1,4 @@
-<img src="https://getwallpapers.com/wallpaper/full/3/0/e/1216560-wallpaper-pixel-art-1920x1200-photo.jpg">
+<img src="https://images3.alphacoders.com/114/thumb-1920-1140964.png">
 <b>Lenguajes</b>
 <p>
   <img src="https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=white&labelColor=3776BD" />
